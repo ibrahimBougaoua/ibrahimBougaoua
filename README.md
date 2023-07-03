@@ -18,12 +18,3 @@
     <a href="https://alpinejs.dev/" target="_blank"> <img src="https://filamentphp.com/images/alpine.svg" width="100" height="100"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://filamentphp.com/images/tailwind.svg" width="100" height="100"/> </a> 
 </p>
-
-## 📊 My Github Stats
-
-  <br/>
-  <a href="https://github.com/ibrahimBougaoua/github-readme-stats"><img alt="Abdessamed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimBougaoua&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/ibrahimBougaoua/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimBougaoua&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-  <br/>
