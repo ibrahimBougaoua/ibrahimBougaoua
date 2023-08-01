@@ -7,7 +7,6 @@
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/php.png"/></a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/laravel.png"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://v2.vuejs.org/images/logo.svg" width="40" height="40"/> </a>
-    <a href="https://filamentphp.com/" target="_blank"> <img src="https://filamentphp.com/images/dog.svg" width="60" height="60"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
