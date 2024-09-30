@@ -1,9 +1,9 @@
 ### Hi there, I'm Ibrahim  
 
-Experienced Backend / Frontend web Programmer. Graduated with a master degree in software engineer. Enjoy learning and staying current on bleeding edge technology, look forward to developing and exercising years of knowledge on new projects.
-<br/>
-I love contributing to open source projects.
-<br/><br/>
+Experienced Backend / Frontend web Programmer. Graduated with a master degree in software engineering. Enjoy learning and staying current on bleeding edge technology, and look forward to developing and exercising years of knowledge on new projects.
+
+#### I ❤️ contributing to open source projects.
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/ibrahimbougaoua)
 
 ## 🚀 Languages and Tools:
